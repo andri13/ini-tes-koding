@@ -1,0 +1,2 @@
+-menggunganakan Laravel v.9 
+-menggunganakan php v.8
